@@ -16,6 +16,6 @@ def reduce(array,sv=nil)
     num = array[0]
     i = 1 
   end
-  
+  while i < array.length 
   
 end 
