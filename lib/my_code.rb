@@ -1,3 +1,5 @@
-def map (array)  |i| i* -1
+def map (array)
   yield(array)
 end
+
+
